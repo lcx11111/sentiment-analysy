@@ -7,3 +7,6 @@ scikit-learn
 matplotlib
 seaborn
 DrissionPage
+streamlit
+altair
+transformers
